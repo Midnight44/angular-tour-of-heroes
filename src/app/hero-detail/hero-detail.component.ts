@@ -1,5 +1,4 @@
 import { Component, OnInit, Input } from '@angular/core';
-//angular.io create a feature
 import { Hero } from '../hero';
 
 @Component({
